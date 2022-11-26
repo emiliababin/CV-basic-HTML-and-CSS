@@ -1,0 +1,31 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #f5f7fa;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px 0px #0000001a;
+}
+
+.main-description {
+  background: gray;
+  margin: 20px;
+  padding: 40px;
+}
+
+li {
+  color: green;
+}
+h2 {
+  color: red;
+}
+
+.description {
+  color: blue;
+}
