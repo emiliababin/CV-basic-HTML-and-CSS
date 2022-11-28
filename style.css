@@ -19,6 +19,10 @@ aside {
 }
 
 .cv-photo {
+  width: 322px;
+  height: 338px;
+  left: 0px;
+  top: 44px;
   margin: 25px 0 0 0;
 }
 
@@ -66,4 +70,127 @@ aside {
 .soft-skills-block {
   margin-top: 47px;
   margin-left: 40px;
+}
+
+main {
+  padding: 102px 88px 102px 88px;
+}
+
+.main-description {
+  width: 400px;
+}
+
+.job-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.main-header {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+}
+
+.description {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-bottom: 40px;
+}
+
+.projects {
+  width: 485px;
+  margin-bottom: 51px;
+}
+
+.list-primary {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.list-primary-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration-line: none;
+  color: #595959;
+}
+
+.header-primary {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 12px;
+}
+
+.job-position {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.highlight {
+  color: #fb6d3a;
+}
+
+.job-date {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+
+.job-list {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.job-name {
+  width: 525px;
+  height: 213px;
+  left: 498px;
+  top: 570px;
+  margin-bottom: 16px;
+}
+
+.education {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+}
+
+.education-name {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+}
+
+.education-subject {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.work-exp-box {
+  padding-right: 217px;
+  margin-bottom: 43px;
+}
+
+.education-box {
+  width: 242px;
+  height: 114px;
+  left: 498px;
+  top: 1138px;
+  margin-right: 500px;
+  margin-bottom: 107px;
 }
